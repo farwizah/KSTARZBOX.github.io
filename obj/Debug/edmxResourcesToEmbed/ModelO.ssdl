@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="co5027Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="image_table">
+    <Key>
+      <PropertyRef Name="imageID" />
+    </Key>
+    <Property Name="imageID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="width" Type="int" />
+    <Property Name="height" Type="int" />
+    <Property Name="altText" Type="varchar" MaxLength="50" />
+    <Property Name="extension" Type="varchar" MaxLength="50" />
+    <Property Name="imgName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="prevImage1_table">
+    <Key>
+      <PropertyRef Name="prevImg1" />
+    </Key>
+    <Property Name="prevImg1" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="width1" Type="int" />
+    <Property Name="height" Type="int" />
+    <Property Name="altText1" Type="varchar" MaxLength="50" />
+    <Property Name="extension1" Type="varchar" MaxLength="50" />
+    <Property Name="prevImg3Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="prevImage2_table">
+    <Key>
+      <PropertyRef Name="prevImg2" />
+    </Key>
+    <Property Name="prevImg2" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="width2" Type="int" />
+    <Property Name="height2" Type="int" />
+    <Property Name="altText2" Type="varchar" MaxLength="50" />
+    <Property Name="extension" Type="varchar" MaxLength="50" />
+    <Property Name="prevImg2Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="prod_table">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="prod_name" Type="varchar" MaxLength="50" />
+    <Property Name="prod_details" Type="varchar" MaxLength="200" />
+    <Property Name="prod_price" Type="varchar" MaxLength="50" />
+    <Property Name="prod_quantity" Type="int" />
+    <Property Name="onFeatured" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="co5027ModelStoreContainer">
+    <EntitySet Name="image_table" EntityType="Self.image_table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prevImage1_table" EntityType="Self.prevImage1_table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prevImage2_table" EntityType="Self.prevImage2_table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prod_table" EntityType="Self.prod_table" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

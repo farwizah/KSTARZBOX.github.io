@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="masterpage.master.cs" Inherits="kstarbox.masterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head runat="server">
+    <title>KStarzBox</title>
+    <link rel="stylesheet"  type="text/css"  href="css/style.css" />
+    <link rel="icon" href="img/icon.png" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <div class="motherdiv">
+        <div class="logo">
+            <a href="Default.aspx"><img src="img/kstarzboxLogo.jpg" alt="Welcome" /></a>
+        </div>
+
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div class="banner">
+                        <span class="banneritem">
+                                <img src="img/kstarzboxBanner.gif" alt="kstarzbox" />
+                            </span>
+        </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+          <div class="footerindex">
+              <strong>&copy; COPYRIGHTS 2018, KSTARZBOX</strong>
+          </div>
+         </div>
+</body>
+</html>

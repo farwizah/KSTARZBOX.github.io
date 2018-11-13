@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="co5027Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="db_1624956_kstardbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="image_table" EntityType="co5027Model.image_table" />
+    <EntitySet Name="prevImage1_table" EntityType="co5027Model.prevImage1_table" />
+    <EntitySet Name="prevImage2_table" EntityType="co5027Model.prevImage2_table" />
+    <EntitySet Name="prod_table" EntityType="co5027Model.prod_table" />
+  </EntityContainer>
+  <EntityType Name="image_table">
+    <Key>
+      <PropertyRef Name="imageID" />
+    </Key>
+    <Property Name="imageID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="width" Type="Int32" />
+    <Property Name="height" Type="Int32" />
+    <Property Name="altText" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="extension" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="imgName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="prevImage1_table">
+    <Key>
+      <PropertyRef Name="prevImg1" />
+    </Key>
+    <Property Name="prevImg1" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="width1" Type="Int32" />
+    <Property Name="height" Type="Int32" />
+    <Property Name="altText1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="extension1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prevImg3Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="prevImage2_table">
+    <Key>
+      <PropertyRef Name="prevImg2" />
+    </Key>
+    <Property Name="prevImg2" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="width2" Type="Int32" />
+    <Property Name="height2" Type="Int32" />
+    <Property Name="altText2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="extension" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prevImg2Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="prod_table">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="prod_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prod_details" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="prod_price" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prod_quantity" Type="Int32" />
+    <Property Name="onFeatured" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

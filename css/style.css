@@ -1,0 +1,556 @@
+﻿body {
+    background-color: #0094ff;
+    font-family: Arial;
+}
+
+h1 {color:black;
+    text-align:center;
+}
+
+p{
+    color:black;
+    font-family:GulimChe;
+    text-align:center;
+}
+
+.slogan {
+    
+    background-color: white;
+    width:inherit;
+    height:60px;
+    margin-top:-20px;
+    padding-top:10px;
+    border-bottom:2px solid;
+    padding-bottom:6px;
+
+}
+.slogan p {
+        font-family:'DejaVu Sans';
+        font-size: 25px;
+        font-style: italic;
+        position:center;
+    }
+
+.motherdiv {
+    border: 2px solid;
+    margin: 10px auto;
+    vertical-align: top;
+    width: 1000px;
+    background-color: #ADD8E6;
+}
+
+.logo
+{
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+    background-color:white;
+    border:5px solid #222;
+}
+
+ul {
+    list-style: none;
+}
+
+.selected
+{
+    background-color:#79F0FF;
+    color:#000000;
+    padding:3px 0 3px 0;  
+}
+
+#navbar {
+    background-color: #FFB6C1;
+    width: 995px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    z-index: 3;
+    position: relative;
+    font-weight: bold;
+    border: 2px solid black;
+}
+#navbar ul
+{
+    list-style-type:none;
+}
+#navbar ul li
+{
+    display:inline-block;
+}
+#navbar ul li a
+{
+    padding-left:40px;
+    padding-right:40px;
+    display:block;
+    text-decoration:none;
+}
+#navbar ul li:hover
+{
+    background-color: #F0FFFF;
+    text-decoration:none;
+    border:3px solid black;
+}
+
+.banner {
+    border-bottom: 3px solid;
+    border-top: 3px solid;
+    position: relative;
+    background-color: #ADD8E6;
+    padding: 3px;
+}
+.banneritem
+{
+    position:relative;
+    margin-left: 100px;
+}
+.sale {
+    background-color: #FFB6C1;
+    text-align: center;
+    padding: 15px 0 10px 0;
+    font-weight: bold;
+}
+
+.new {
+    background-color: #FFB6C1;
+    text-align: center;
+    padding: 15px 0 10px 0;
+    font-weight: bold;
+}
+
+.newitemwrapper {
+    background-color: #ADD8E6;
+    height: 250px;
+    width: 996px;
+    margin: auto;
+    padding-left: 4px;
+    padding-top: 30px;
+    overflow: auto;
+}
+
+.acc {
+    border: 3px solid;
+    background-color: #FFB6C1;
+    text-align: center;
+    padding: 8px 0 8px 0;
+    font-weight: bold;
+}
+.accwrapper {
+    background-color: #ADD8E6;
+    height: 250px;
+    width: 996px;
+    margin: auto;
+    padding-left: 4px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.products {
+    background-color: #FFB6C1;
+    text-align: center;
+    padding: 15px 0 10px 0;
+    font-weight: bold;
+}
+
+div.itemdetail
+{
+    float:right;
+    margin-right:180px;
+    border: 3px solid #BC8F8F;
+    width:400px;
+    height:400px;
+}
+div.itemdetail img
+{
+    height: 100%;
+    width: 100%;
+}
+.smallimgwrap
+{
+    float:left;
+    margin-top:-590px;
+    margin-right:2px;
+    margin-left:220px;
+    width:100px;
+    height:250px;
+
+}
+div.itemdetail1
+{
+    border: 3px solid #BC8F8F;
+    width:100px;
+    height:100px;
+}
+div.itemdetail1 img
+{
+    height: 100%;
+    width: 100%;
+}
+div.itemdetail2 {
+
+    border: 3px solid #BC8F8F;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+div.itemdetail2 img
+{
+    height: 100%;
+    width: 100%;
+}
+div.itemdetailtext {
+    float: right;
+    border: 1px solid brown;
+    width: 400px;
+    margin-top: 20px;
+    margin-right: 180px;
+}
+div.itemdetailtext p
+{
+    text-align:center;
+}
+
+.priceinfo
+{
+    font-weight:bold;
+}
+ 
+div.cart
+{
+    margin-left:530px;
+    margin-top:560px;
+    width:40px;
+    height:40px;
+}
+div.cart img
+{
+    height: 100%;
+    width:100%;
+}
+div.addtocart
+{
+    border:1px solid brown;
+    float:left;
+    margin-left:20px;
+    margin-top:50px;
+    width:20px;
+    height:20px;
+}
+div.addtocart a
+{
+    text-decoration:none;
+    font-weight:bold;
+}
+
+#itemwrapper {
+    background-color: #ADD8E6;
+    height: 700px;
+    width: 944px;
+    padding-top: 10px;
+    padding-left: 55px;
+    overflow: auto;
+}
+#productitemwrapper {
+    background-color: #ADD8E6;
+    height: 500px;
+    width: 996px;
+    padding-top: 10px;
+    padding-left: 4px;
+    overflow: auto;
+}
+
+.item1
+{
+    float:left;
+    border: 3px solid #FF7F50;
+    margin-left:15px;
+    position:relative;
+    width:200px;
+    height:200px;
+    overflow:hidden;
+}
+.item1 img
+{
+    height: 100%;
+    width: 100%;
+}
+.item1 .prodtext
+{
+    position:absolute;
+    top: -100%;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width:100%; 
+    height:100%;
+    color: #fff;
+    transition: all 0.3s cubic-bezier(0.4, 0, 1, 1) 0s;
+}
+.item1:hover .prodtext
+{
+    top:0;
+}
+.item1 .prodtext h4
+{
+    font-size: 15px;
+    font-weight:bold;
+    text-align:center;
+    border-bottom: 1px solid #FFFAF0;
+    padding-bottom:10px;
+    margin-top: 10px;
+}
+.item1 .prodtext p
+{
+    margin: 15px 0;
+    text-align: center;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+div.item1 .prodtext a.morebutton
+{
+    width: 100px;
+    text-align: center;
+    padding:10px 0;
+    display:block;
+    color: #010101;
+    background:	#FAFAFA;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin: 0 auto 0 auto;
+}
+div.item1 .prodtext a.morebutton:hover
+{
+    background:	#010101;
+    color: #FAFAFA;
+}
+
+div.address {
+    border: 3px solid brown;
+    float: right;
+    margin-right: 100px;
+    margin-top: -400px;
+    width: 293px;
+    height: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    padding: 7px;
+}
+
+#signoutbut
+{
+}
+
+#formwrapper {
+    background-color: #ADD8E6;
+    height: 500px;
+}
+div.contact {
+    background-color:#FFB6C1 ;
+}
+div.contact h4
+{
+    text-align:center;
+    font-size:40px;
+    margin-top:-2px;
+    border-bottom:3px solid black;
+}
+
+.labelname
+{
+    float:left;
+    margin-left:240px;
+    height: 304px;
+}
+.regsignwrapper
+{
+    width:1000px;
+    height: 550px;
+}
+
+.loginwrap {
+    float: left;
+    background-color: #FFB6C1;
+    height: 50px;
+    width: 499px;
+    border: 1px solid black;
+    text-align: center;
+}
+.logincontent {
+    float: left;
+    background-color: #ADD8E6;
+    height: 500px;
+    width: 499px;
+    border: 1px solid black;
+}
+.loglabel
+{
+    margin-top:30px;
+    margin-left:100px;
+    font-weight:bold;
+}
+.loginbutton
+{
+    margin-top:20px;
+    margin-left:186px;
+}
+
+
+.registerwrap {
+    float: left;
+    margin-left: 500px;
+    margin-top: -555px;
+    background-color: #FFB6C1;
+    height: 50px;
+    width: 499px;
+    border: 1px solid black;
+    text-align: center;
+}
+.registercontent {
+    float: left;
+    margin-left: 500px;
+    margin-top: -503px;
+    background-color: #ADD8E6;
+    height: 500px;
+    width: 499px;
+    border: 1px solid black;
+}
+.reglabel
+
+{
+    margin-top:30px;
+    margin-left:100px;
+    font-weight:bold;
+}
+.regtxtbox
+{
+    margin-left:100px;
+    font-weight:bold;
+}
+.regbuttoncss
+{
+    margin-left:170px;
+    font-weight:bold;
+}
+
+.lit
+{
+    margin-left:150px;
+    font-weight:bold;
+}
+
+.imguploadmargin
+{
+    margin-left:130px;
+}
+.imguploadheader
+{
+     background-color: white;
+    text-align:center;
+    font-weight:bold;
+}
+.upimgwrap {
+    background-color: #ADD8E6;
+    height: 700px;
+    border: 1px solid brown;
+    overflow: scroll;
+    padding-left:200px;
+    padding-right:200px;
+}
+
+div.faqwrapper {
+    background-color: #ADD8E6;
+    height: 500px;
+    padding-top: 10px;
+    border: 1px solid black;
+}
+div.faqwrapper h2
+{
+    text-align:center;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin-top: -1px;
+}
+div.faqwrapper p
+{
+    margin-left:10px;
+    font-weight:bold;
+}
+
+div.aboutwrap {
+    background-color: #ADD8E6;
+    height: 500px;
+    padding-top: 10px;
+    border: 1px solid black;
+}
+div.aboutwrap h3
+{
+
+    border-bottom:1px solid black;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;
+    padding-bottom:10px;
+    margin-top:-2px;
+}
+div.aboutwrap p
+{
+    margin-left:10px;
+    color:black;
+    font-family:GulimChe;
+    text-align:center;
+}
+
+.footerindex {
+    text-align: center;
+    background-color: #FFB6C1;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 0 10px 0;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.addProdHeader
+{
+    background-color:#F8F6F6;
+    text-align:center;
+    padding: 3px 0 3px 0;
+    font-weight:bold;
+    border:solid 1px black;
+}
+.addFormWrapper {
+    background-color: #ADD8E6;
+    width: 995px;
+    height: 500px;
+    border-bottom: solid 3px black;
+    margin-bottom: 10px;
+}
+
+.manageProdHeader
+{
+    background-color:#F8F6F6;
+    text-align:center;
+    padding: 3px 0 3px 0;
+    font-weight:bold;
+    border:solid 1px black; 
+}
+
+.datagridAdminWrapper {
+    background-color: #ADD8E6;
+    width: 995px;
+    height: 200px;
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    border-bottom: solid 3px black;
+    overflow: scroll;
+}
+
+.prodgridtable
+{
+    margin-left:100px;
+}
+
+
+
+

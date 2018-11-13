@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatbaseEntitiesStoreContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="prod_table">
+      <EntityTypeMapping TypeName="DatbaseEntities.prod_table">
+        <MappingFragment StoreEntitySet="prod_table">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prod_name" ColumnName="prod_name" />
+          <ScalarProperty Name="prod_details" ColumnName="prod_details" />
+          <ScalarProperty Name="prod_price" ColumnName="prod_price" />
+          <ScalarProperty Name="prod_quantity" ColumnName="prod_quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblImages">
+      <EntityTypeMapping TypeName="DatbaseEntities.tblImage">
+        <MappingFragment StoreEntitySet="tblImage">
+          <ScalarProperty Name="imageID" ColumnName="imageID" />
+          <ScalarProperty Name="width" ColumnName="width" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="altText" ColumnName="altText" />
+          <ScalarProperty Name="extension" ColumnName="extension" />
+          <ScalarProperty Name="imgName" ColumnName="imgName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="DatbaseEntities.tblImage">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="DatbaseEntities.Store.sp_img_INS">
+            <ScalarProperty Name="altText" ParameterName="alText" />
+            <ScalarProperty Name="imgName" ParameterName="imgName" />
+            <ScalarProperty Name="extension" ParameterName="extension" />
+            <ScalarProperty Name="height" ParameterName="height" />
+            <ScalarProperty Name="width" ParameterName="width" />
+          </InsertFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_img_INS" FunctionName="DatbaseEntities.Store.sp_img_INS" />
+  </EntityContainerMapping>
+</Mapping>

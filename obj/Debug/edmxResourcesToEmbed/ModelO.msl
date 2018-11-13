@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="co5027ModelStoreContainer" CdmEntityContainer="db_1624956_kstardbEntities">
+    <EntitySetMapping Name="image_table">
+      <EntityTypeMapping TypeName="co5027Model.image_table">
+        <MappingFragment StoreEntitySet="image_table">
+          <ScalarProperty Name="imgName" ColumnName="imgName" />
+          <ScalarProperty Name="extension" ColumnName="extension" />
+          <ScalarProperty Name="altText" ColumnName="altText" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="width" ColumnName="width" />
+          <ScalarProperty Name="imageID" ColumnName="imageID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prevImage1_table">
+      <EntityTypeMapping TypeName="co5027Model.prevImage1_table">
+        <MappingFragment StoreEntitySet="prevImage1_table">
+          <ScalarProperty Name="prevImg3Name" ColumnName="prevImg3Name" />
+          <ScalarProperty Name="extension1" ColumnName="extension1" />
+          <ScalarProperty Name="altText1" ColumnName="altText1" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="width1" ColumnName="width1" />
+          <ScalarProperty Name="prevImg1" ColumnName="prevImg1" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prevImage2_table">
+      <EntityTypeMapping TypeName="co5027Model.prevImage2_table">
+        <MappingFragment StoreEntitySet="prevImage2_table">
+          <ScalarProperty Name="prevImg2Name" ColumnName="prevImg2Name" />
+          <ScalarProperty Name="extension" ColumnName="extension" />
+          <ScalarProperty Name="altText2" ColumnName="altText2" />
+          <ScalarProperty Name="height2" ColumnName="height2" />
+          <ScalarProperty Name="width2" ColumnName="width2" />
+          <ScalarProperty Name="prevImg2" ColumnName="prevImg2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prod_table">
+      <EntityTypeMapping TypeName="co5027Model.prod_table">
+        <MappingFragment StoreEntitySet="prod_table">
+          <ScalarProperty Name="onFeatured" ColumnName="onFeatured" />
+          <ScalarProperty Name="prod_quantity" ColumnName="prod_quantity" />
+          <ScalarProperty Name="prod_price" ColumnName="prod_price" />
+          <ScalarProperty Name="prod_details" ColumnName="prod_details" />
+          <ScalarProperty Name="prod_name" ColumnName="prod_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

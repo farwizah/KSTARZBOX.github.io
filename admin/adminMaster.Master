@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminMaster.master.cs" Inherits="kstarbox.admin.adminMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head runat="server">
+    
+    <title>KStarzBox dashboard</title>
+    <link rel="stylesheet" href="../css/style.css" type="text/css" />
+    <link rel="icon" href="../img/favico.png" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+      <div class="motherdiv">
+         <div class="logo">
+            <a href="../Default.aspx"><img src="../img/kstarzboxLogo.jpg" alt="Welcome" /></a>
+        </div>
+     <div id="navbar">
+            <ul>
+                <li><a href="../Default.aspx">HOME</a></li>
+                <li>
+                    <a href="../Product.aspx">PRODUCTS</a>
+                </li>
+                <li>
+                    <a href="../About.aspx">ABOUT US</a>
+                </li>
+                
+                <li>
+                    <a href="../Contact.aspx">CONTACT US</a>
+                </li>
+                <li>
+                    <a href="../Login.aspx">ACCOUNT</a>
+                    
+                </li>
+            </ul>
+        </div>
+    <form id="form1" runat="server">
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+           <div class="footerindex">
+             <strong>&copy; COPYRIGHTS 2018, KSTARZBOX</strong>
+          </div>
+          </div>
+</body>
+</html>

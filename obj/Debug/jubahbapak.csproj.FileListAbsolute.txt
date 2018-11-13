@@ -1,0 +1,291 @@
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\ApplicationInsights.config
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\csc.exe
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\System.Collections.Immutable.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\System.Reflection.Metadata.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\vbc.exe
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe.config
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\jubahbapak.dll.config
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\jubahbapak.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\jubahbapak.pdb
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.Agent.Intercept.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.PerfCounterCollector.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\obj\Debug\jubahbapak.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\obj\Debug\jubahbapak.pdb
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\EntityFramework.dll
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.dll
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.dll
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\EntityFramework.xml
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.xml
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.xml
+G:\One Drive\OneDrive\Documents\Visual Studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Newtonsoft.Json.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Owin.dll
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\Newtonsoft.Json.xml
+g:\one drive\onedrive\documents\visual studio 2015\Projects\jubahbapak\jubahbapak\obj\Debug\jubahbapak.csprojResolveAssemblyReference.cache
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\ApplicationInsights.config
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\csc.exe
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\System.Collections.Immutable.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\System.Reflection.Metadata.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\vbc.exe
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\VBCSCompiler.exe
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\roslyn\VBCSCompiler.exe.config
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\jubahbapak.dll.config
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\jubahbapak.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\jubahbapak.pdb
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\EntityFramework.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\EntityFramework.SqlServer.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.Agent.Intercept.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.DependencyCollector.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.Web.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.WindowsServer.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.ApplicationInsights.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.Core.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.Cookies.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.OAuth.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Newtonsoft.Json.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Owin.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\PayPal.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\EntityFramework.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\EntityFramework.SqlServer.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.DependencyCollector.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.Web.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AI.WindowsServer.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.ApplicationInsights.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.Core.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.Cookies.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Microsoft.Owin.Security.OAuth.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\Newtonsoft.Json.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\bin\PayPal.xml
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\obj\Debug\jubahbapak.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\obj\Debug\jubahbapak.pdb
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak - Copy\jubahbapak\obj\Debug\jubahbapak.csprojResolveAssemblyReference.cache
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\PayPal.dll
+G:\One Drive\OneDrive\Documents\visual studio 2015\Projects\jubahbapak\jubahbapak\bin\PayPal.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\ApplicationInsights.config
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\csc.exe
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\vbc.exe
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\jubahbapak.dll.config
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\jubahbapak.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\jubahbapak.pdb
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\EntityFramework.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Newtonsoft.Json.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Owin.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\PayPal.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\EntityFramework.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\Newtonsoft.Json.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\bin\PayPal.xml
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\obj\Debug\jubahbapak.csprojResolveAssemblyReference.cache
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\obj\Debug\jubahbapak.dll
+C:\Users\Alid\Desktop\co5027final\jubahbapak\jubahbapak\obj\Debug\jubahbapak.pdb
+F:\jubahbapak\jubahbapak\bin\ApplicationInsights.config
+F:\jubahbapak\jubahbapak\bin\roslyn\csc.exe
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\jubahbapak\jubahbapak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\jubahbapak\jubahbapak\bin\roslyn\System.Collections.Immutable.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\System.Reflection.Metadata.dll
+F:\jubahbapak\jubahbapak\bin\roslyn\vbc.exe
+F:\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe
+F:\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe.config
+F:\jubahbapak\jubahbapak\bin\jubahbapak.dll.config
+F:\jubahbapak\jubahbapak\bin\jubahbapak.dll
+F:\jubahbapak\jubahbapak\bin\jubahbapak.pdb
+F:\jubahbapak\jubahbapak\bin\EntityFramework.dll
+F:\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.Agent.Intercept.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.dll
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.dll
+F:\jubahbapak\jubahbapak\bin\Newtonsoft.Json.dll
+F:\jubahbapak\jubahbapak\bin\Owin.dll
+F:\jubahbapak\jubahbapak\bin\PayPal.dll
+F:\jubahbapak\jubahbapak\bin\EntityFramework.xml
+F:\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.xml
+F:\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.xml
+F:\jubahbapak\jubahbapak\bin\Newtonsoft.Json.xml
+F:\jubahbapak\jubahbapak\bin\PayPal.xml
+F:\jubahbapak\jubahbapak\obj\Debug\jubahbapak.dll
+F:\jubahbapak\jubahbapak\obj\Debug\jubahbapak.pdb
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\ApplicationInsights.config
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\csc.exe
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\System.Collections.Immutable.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\System.Reflection.Metadata.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\vbc.exe
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\roslyn\VBCSCompiler.exe.config
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\jubahbapak.dll.config
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\jubahbapak.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\jubahbapak.pdb
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\EntityFramework.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Newtonsoft.Json.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Owin.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\PayPal.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\EntityFramework.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\EntityFramework.SqlServer.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.DependencyCollector.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.Web.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AI.WindowsServer.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.ApplicationInsights.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\Newtonsoft.Json.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\bin\PayPal.xml
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\obj\Debug\jubahbapak.csprojAssemblyReference.cache
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\obj\Debug\jubahbapak.csproj.CoreCompileInputs.cache
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\obj\Debug\jubahbapak.csproj.CopyComplete
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\obj\Debug\jubahbapak.dll
+D:\Storage\Downloads\Chrome\jubahbapak\jubahbapak\obj\Debug\jubahbapak.pdb
